@@ -4,7 +4,7 @@
 - 🌱 I’m currently upskilling my data analytical skills in Adavnced SQL for data analysis
 - 👯 I’m looking to collaborate on data analytical projects
 - 💬 Ask me about my learning journey
-- 📫 How to reach me: anibihakeem@mail.com
+- 📫 How to reach me: anibihakeem@gmail.com
 - 😄 Pronouns: HE/HIS/HIM
 - ⚡ Fun fact: I am an extroverted introvert
 
